@@ -1,0 +1,56 @@
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.exe
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.deps.json
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.runtimeconfig.json
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.runtimeconfig.dev.json
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.pdb
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaDatos.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.Inicio.resources
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.csproj.GenerateResource.cache
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.AssemblyInfo.cs
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.csproj.CopyComplete
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.pdb
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.genruntimeconfig.cache
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.Properties.Resources.resources
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaNegocios.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaNegocios.pdb
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.exe
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.deps.json
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.runtimeconfig.json
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.runtimeconfig.dev.json
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaInicio.pdb
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaNegocios.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaNegocios.pdb
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.csproj.AssemblyReference.cache
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.Inicio.resources
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.Properties.Resources.resources
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.csproj.GenerateResource.cache
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.AssemblyInfoInputs.cache
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.AssemblyInfo.cs
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.csproj.CoreCompileInputs.cache
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.csproj.CopyComplete
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.dll
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.pdb
+C:\Users\jungx\OneDrive\Documentos\Otros\Respaldo08 08 21\Escuela\CRUD_NCAPASSQL\CapaInicio\obj\Debug\netcoreapp3.1\CapaInicio.genruntimeconfig.cache

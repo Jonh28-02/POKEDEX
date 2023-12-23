@@ -1,0 +1,13 @@
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\bin\Debug\netcoreapp3.1\CapaPokemon.deps.json
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\bin\Debug\netcoreapp3.1\CapaPokemon.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\bin\Debug\netcoreapp3.1\CapaPokemon.pdb
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\bin\Debug\netcoreapp3.1\CapaDatos.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\obj\Debug\netcoreapp3.1\CapaPokemon.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\obj\Debug\netcoreapp3.1\CapaPokemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\obj\Debug\netcoreapp3.1\CapaPokemon.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\obj\Debug\netcoreapp3.1\CapaPokemon.AssemblyInfo.cs
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\obj\Debug\netcoreapp3.1\CapaPokemon.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\obj\Debug\netcoreapp3.1\CapaPokemon.csproj.CopyComplete
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\obj\Debug\netcoreapp3.1\CapaPokemon.dll
+D:\OneDrive\Documentos\Quinto semestre\Programación Orientada a Objetos\Proyecto_Montes Jaimes\CRUD_NCAPASSQL\CapaPokemon\obj\Debug\netcoreapp3.1\CapaPokemon.pdb
